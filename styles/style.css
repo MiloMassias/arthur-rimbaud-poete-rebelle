@@ -8,6 +8,7 @@ body {
 	background: linear-gradient(120deg, #e8dbc5, #cbb093);
 	color: #3e3d3d;
 	flex-direction: column;
+	overflow-y: auto; 
 }
 
 
