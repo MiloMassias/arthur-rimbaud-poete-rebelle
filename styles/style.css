@@ -5,7 +5,6 @@ body {
 	font-family: 'Merriweather', serif;
 	display: flex;
 	min-height: 100vh;
-	overflow: hidden;
 	background: linear-gradient(120deg, #e8dbc5, #cbb093);
 	color: #3e3d3d;
 }
