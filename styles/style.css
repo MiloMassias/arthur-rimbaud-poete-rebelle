@@ -95,6 +95,7 @@ img{
 	max-width: 1200px;
 	margin: 20px auto;
 	font-family: 'Merriweather', serif;
+	overflow-y: auto;
 }
 
 header {
